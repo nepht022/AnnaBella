@@ -5,7 +5,7 @@
 <p align="center">Preview da página inicial (Zoom: 80%)</p>
 <img src="./imagens/AnnaBella-Preview.png">
 
-[Clique AQUI para acessar](https://nepht022.github.io/Wetyc/)
+[Clique AQUI para acessar](https://nepht022.github.io/AnnaBella/)
 
 ## Ferramentas
 
